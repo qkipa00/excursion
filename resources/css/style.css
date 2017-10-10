@@ -5,7 +5,7 @@ body {
 }
 
 h1{
-	font-weight: normal;
+	font-weight: bold;
 	font-size: 50px;
 	color: white;
 }
@@ -16,7 +16,7 @@ a{
 }
 
 h2{
-	font-weight: 300;
+	font-weight: bold;
 	font-size: 42px;
 	color:white;
 }
@@ -28,4 +28,12 @@ p{
 
 .c{
 	text-align: right;
+}
+
+.phoneicon{
+	padding-top:30px;
+}
+
+video{
+	padding-top:30px;
 }
